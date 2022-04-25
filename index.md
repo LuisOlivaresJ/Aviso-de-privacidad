@@ -6,7 +6,7 @@ Para llevar a cabo lo anterior, recabaremos los siguientes datos personales:
 * Correo electrónico
 * Institución en donde labora
 
-En el caso de la difusión y/o publicación de los datos y/o resultados de un análisis posterior de los mismos, serán sin fines de lucro, sin revelar datos personales y la autoría y derechos de la publicación serán de la Comisión de Radioterapia de la Sociedad. <br/>
+En el caso de la difusión y/o publicación de los datos y/o resultados de un análisis posterior de los mismos, serán con fines estadísticos y sin revelar datos personales. La autoría y derechos de la publicación serán de la Comisión de Radioterapia de la Sociedad Mexicana de Físicos en Medicina. <br/>
 En caso de que no desee que sus datos personales sean tratados para las finalidades anteriormente descritas, usted puede manifestarlo en el correo electrónico:<br/> comision.radioterapia.smfm@gmail.com <br/>
 Le informamos que sus datos personales no serán compartidos fuera de la Sociedad Mexicana de Físicos en Medicina A. C.
 ### ¿Cómo puede acceder, rectificar o cancelar sus datos personales, u oponerse a su uso?
